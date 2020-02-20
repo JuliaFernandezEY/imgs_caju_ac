@@ -6,7 +6,7 @@
 * Go to the [Azure Portal](https://www.portal.azure.com).
 
 * Go to your [Subscriptions](https://www.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-![Go to Subscription](https://github.com/JuliaFernandezEY/imgs_caju_ac/blob/master/images/assign-role/assign-role1.png)
+![Go to Subscription](https://dev.azure.com/caju-academy/wiki/_git/wiki?path=%2Fimages%2Fassign-role%2Fassign-role1.png&version=GBju)
 
 * Choose your *Visual Studio Subscription*.
 
